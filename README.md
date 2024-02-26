@@ -1,5 +1,5 @@
 ## 💁🏼‍♂️ Apresentação
-- 👋 Olá, eu sou o @LuisSantosz
+- 👋 Olá, eu sou o Luis Henrique Santos de Queiroz
 - 👽 Seja bem-vindo(a) ao meu GitHub
 - 👨🏼‍💻 Sou estudante de Front-end
 - 💡 Criar e inovar
