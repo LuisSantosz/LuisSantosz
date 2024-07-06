@@ -13,7 +13,7 @@
 </div>
 
 ## 📂 Contatos
-- ✉ luishenriquesantoos@gmail.com
+- ✉ luishenriquesantoos95@gmail.com
 - 🔵 https://www.linkedin.com/in/luis-henrique-santos-de-queiroz2002/
 
 
